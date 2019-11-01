@@ -1,5 +1,5 @@
 ---
-date: 2019-04-12 17:52:07
+date: 2019-0-12 17:52:07
 title: 'WeekTalk #8 - Découverte de Nuxt.js'
 author: Sebastien-Ahkrin
 categories:
@@ -12,7 +12,7 @@ tags:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wte-XtcaTCo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Détail de ce 7ème WeekTalk
+## Détail de ce 8ème WeekTalk
 Ce WeekTalk est animé par Romain Lanz. Il va nous faire une découverte improvisée du framework Nuxt.js.
 
 ## Liens utiles
